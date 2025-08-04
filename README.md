@@ -1,4 +1,6 @@
 Anemômetro em C
+
+
 Este projeto é uma implementação de um anemômetro, focado em medir a velocidade do vento. Desenvolvido em C, ele se concentra em um código de baixo nível para interagir com o hardware, realizar cálculos precisos e fornecer uma solução eficiente e leve.
 
 🚀 O que você vai encontrar aqui?
